@@ -1,0 +1,23 @@
+.introduction{
+  font-family: Times;
+  font-size: 18px;
+}
+.Worry{
+  font-style: oblique;
+}
+img{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.News{
+  font-size: 18px;
+}
+.site{
+  font-weight: bolder;
+  font-style: italic;
+  color: white;
+}
+body{
+  background-color: teal;
+  color: white;
+}
